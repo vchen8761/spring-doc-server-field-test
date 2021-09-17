@@ -12,3 +12,5 @@ Expected behavior:
 
 After refreshing or switching to json or yaml:
 {"openapi":"3.0.1","info":{"title":"OpenAPI definition","version":"v1"},"servers":[{"url":"http://localhost:8080","description":"Generated server url"}],"paths":{},"components":{}}
+
+![Screenshot](yaml example.png)
